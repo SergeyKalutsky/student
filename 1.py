@@ -4,4 +4,4 @@ print('My name is john')
 x = input('20')
 
 for i in range(10):
-    print(i)
+    print(i+1)
